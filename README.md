@@ -174,7 +174,7 @@ Grup, geniş bir tanımlama taksonomisi olduğundan, belirlemek diğer parametre
 
 Şimdiye kadar belirlediğimiz bazı özel noktalar var:
 
-> **Hamam, Çeşme** gibi kültür varlıklarını, "Su Yapısı" değil **"Sivil Yapı"** olarak grupluyoruz. Çünkü Bu tür yapılar kullanım bakımından daha çok insanlarla ilişki halindedir. 
+> **Hamam, Çeşme** gibi kültür varlıklarını, "Su Yapısı" değil **"Sosyal Yapı"** olarak grupluyoruz. Çünkü Bu tür yapılar kullanım bakımından daha çok insanlarla ilişki halindedir. 
 
 > **Su Kemeri, Baraj, Sarnıç** gibi kültür varlıklarını ise **"Su Yapısı"** olarak grupluyoruz. Çünkü bu yapılar su taşıma ve depolama altyapılarını oluşturuyor.
 
