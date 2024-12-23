@@ -6,7 +6,7 @@ Bu rehberde, Kültür Envanteri’nin genel kullanımı ile ilgili teknik bazı 
 
 <img src="img/Kultur_Envanteri_Arama.jpg" height="auto" width="100%" >
 
-Ana sayfa, taksonomi sayfaları veya tekil yer sayfalarında göreceğiniz arama butonu ile bir kültür varlığı adı, tür, yerleşim ya da herhangi bir terim girerek arama yapabilirsiniz. Arama sonuçlarını liste olarak görebileceğiniz gibi harita üzerine de yerleştirebilirsiniz. Bunun için arama sonuçlarının gösterildiüi sayfanın sağ üstüne bulunan "Harita - Liste" butonlarına tıklayabilirsiniz. 
+Ana sayfa, taksonomi sayfaları veya tekil yer sayfalarında göreceğiniz arama butonu ile bir kültür varlığı adı, tür, yerleşim ya da herhangi bir terim girerek arama yapabilirsiniz. Arama sonuçlarını liste olarak görebileceğiniz gibi harita üzerine de yerleştirebilirsiniz. Bunun için arama sonuçlarının gösterildiği sayfanın sağ üstüne bulunan "Harita - Liste" butonlarına tıklayabilirsiniz. 
 
 Eğer birden fazla terim girmek istiyorsanız boşluk bırakın. Birden fazla terimin aynı anda arandığı durumlarda, yalnızca her iki terimin de kesiştiği sonuçlar görüntülenecektir. 
 
@@ -16,9 +16,9 @@ Eğer arama sonucu araştırmanız için beklediğiniz sonuçlardan fazlasını 
 
 ## Filtreleme
 
-<img src="img/ke_filtre.jpg" height="auto" width="100%" >
+<img src="img/Kultur_Envanteri_Filtreleme.jpg" height="auto" width="100%" >
 
-Harita sayfasında filtreleme kutusunda yer alan Grup, Tür, Kültür, Yüzyıl veya Konum seçimleri yaparak aramalarınızı daraltabilir ve sonuçları eş zamanlı harita üzerinde görüntüleyebilirsiniz. Filtreleme yapabileceğiniz tüm parametreler için Taksonomi sayfasında göz atın.
+Kültür Envanteri'nde arama sonuçlarına daraltmak için filtreleme yöntemini kullanabilirsiniz. Filtreleme kutusunda yer alan Grup, Tür, Kültür, Yüzyıl veya Durum seçimleri yaparak aramalarınızı daraltabilir ve sonuçları eş zamanlı harita üzerinde görüntüleyebilirsiniz. Hiç arama yapmadan belirli sonuçları görmek istiyorsanız "Araştır" bölümünü kullanabilirsiniz.
 
 ## Harita Kullanımı
 
