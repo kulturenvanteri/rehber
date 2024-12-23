@@ -28,7 +28,7 @@ Harita Kültür Envanteri'nin en ayırıcı özelliğidir.
 
 Ulaştığınız sonuçları harita üzerine görebileceğiniz gibi, her kültür varlığı sayfasında da harita bulunmaktadır. Mobil telefonlardan erişimde haritayı görmek için telefonu yan çevirmelisiniz. 
 
-Tüm kültür varlıklarının gösterildiği harita ise periyodik olarak güncellenmek olup sitenin daima en üstünde yer alan "Harita" linki ile kolayca erişelebilir durumdadır.
+Tüm kültür varlıklarının gösterildiği harita ise periyodik olarak güncellenmekte ve sitenin daima en üstünde yer alan "Harita" linki ile kolayca erişelebilir durumdadır.
 
 Üstteki resimde göreceğiniz üzere farklı harita katmanları arasından seçim yapabildiğiniz gibi, harita sağlayıcı verileri üzerinden arama yaparak istediğiniz bölgeye de hızlıca erişebilirsiniz.
  
