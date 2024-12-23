@@ -46,12 +46,6 @@ Eğer haritada var olmayan bir kültür varlığını bize bildirmek isterseniz,
 
 Kültür varlıklarının konumlarını mümkün olduğunca titizlikle belirlemekteyiz. Böylelikle sizlere veritabanımızda yer alan kültür varlıklarına adres tarifi alabilmeniz için [Google Maps](https://www.google.com/maps) servisinden faydalanarak kolaylık sağlıyoruz. Bir kültür varlığı sayfasında veya harita bilgi kutusunda yer alan Yol tarifi al⤷ bağlantısına tıklayarak bulunduğunuz noktadan, ilgili noktaya kadar bir tarif alabilirsiniz. Adres tarifi için cihazınızın konum bilgileri erişimine açık olması gerekmektedir.
 
-## Etrafınızdaki Kültür Varlıklarını Gösterme
-
-<img src="img/ke_etrafta.jpg" height="auto" width="100%" >
-
-Etrafta ne var? bağlantısı ile çevrenizde yer alan kültür varlıklarını haritada görüntüleyebilirsiniz. Çevrenizde görüntülenecek alanın çapını 1 – 60 km arası belirleyebilirsiniz. Bu özelliği kullanabilmek için cihazınızın konum bilgileri erişimine açık olması gerekmektedir.
-
 ## Konumunuzu Gösterme
 
 <img src="img/ke_konum.jpg" height="auto" width="100%" >
