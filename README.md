@@ -163,7 +163,7 @@ Tür adı, Semt/Mahalle Adı*
 
 Farklı kaynaklarda kullanılan veya halk arasında bilinen diğer adları bu bölüme **aralarında virgül ve bir boşluk bırakarak** yazın. Buraya girilen metinler, önyüzde ziyaretçiler tarafından görünmesinin yanı sıra, site içi arama sonuçlarını da etkilemesi bakımından önemlidir. Bu yüzden yazım kurallarına, boşluk ve virgüle dikkat etmenizi rica ediyoruz.
 
-> Örnek: Ulu Camii, Alaeddin Camii, Çarşı Camii.
+> Örnek: Ulu Cami, Alaeddin Camii, Çarşı Camii.
 
 ## Grup
 
@@ -235,6 +235,8 @@ Bir kültür varlığının haritada yer alabilmesi için coğrafi konum bilgisi
 
 Galeri bölümü, bir kültür varlığı ile ilgili her çeşit görsel belge ekleyebileceğiniz bir alandır. Bir fotoğraf, çizim, kroki, harita veya gravür ekleyebilirsiniz. Kendi fotoğraflarınızı, çizimlerinizi ekleyebilir veya telif haklarına ve veri kullanım politikalarına dikkat etmek koşulu ile çeşitli kaynaklardan görsel temin edebilirsiniz. 
 
+Dikkat! İnternetten arama yoluyla fotoğraf temin edip yüklemeyiniz. Sadece resmi arşiv sitelerinden telifi kullanıma uygun fotoğrafları, fotoğrafa ait doğru bilgilerle ve ilgili fotoğrafın kaynak adresini belirterek ekleyebilirsiniz. Vikipedi'de bulunan fotoğrafları, Vikipedi telif kuralları gereği kaynağını ve kaynak adresini belirtmek suretiyle eklemenin bir sakıncası yoktur.
+
 Bir telif hakkı ihlali olduğunu düşündüğünüz durumlarda lütfen bizimle [iletişime geçin](mailto:iletisim@kulturenvanteri.com?subject=Telif%20Hakkı%20İhlali).
 
 ### Görsel Dosya Standartları
@@ -243,11 +245,13 @@ Bir dosya eklerken dikkat etmeniz gereken bazı standartlar var. **Dosyanın gen
 
 Galeriye eklenecek görsel malzemenin içeriğe doğrudan katkı sağlamasının yanı sıra, belge niteliği ve estetik kaygı taşıması da beklenir.
 
+Fotoğrafların en-boy oranları görsel düzeni açısından önemlidir. 3x4, 9x13, 10x15 gibi profesyonel kamera standartlarına uymaya gayret gösteriniz. Son dönem çeşitli cep telefonları 2x1 oranından daha fazla olacak şekilde standart dışı fotoğraf çekmektedir. Ayrıca bir fotoğrafı ekran görüntüsü alarak, Whtsapp'dan kendinize göndermek suretiyle boyut düzenlemesi yaparak eklemeyiniz. Fotoğraf boyutlandırma konusunda pekçok program bulunmakta olup, bu konuda Telegram grubundan da yardım alabilirsiniz.
+
 ### Görsel Dosya Bilgileri
 
 <img src="img/ke_gorsel.png" height="auto" width="100%" >
 
-Belge adı ve açıklaması, ilgili kültür varlığına uygun bir şekilde doldurulmalıdır. Ayrıca eklediğiniz belgenin mümkün olduğunca “yaratılış tarihi”, “oluşturan kişi veya kurumun adı”, “kaynağın web adresi” bilgilerini tamamlamaya özen gösterin. “Alternatif metin, başlık ve altyazı” görsel ile ilgili detaylarda önemlidir. Başlık ile aynı metni de kopyalabilirsiniz. 
+Belge adı ve açıklaması, ilgili kültür varlığına uygun bir şekilde doldurulmalıdır. Ayrıca eklediğiniz belgenin “yaratılış tarihi”, “oluşturan kişi veya kurumun adı”, “kaynağın web adresi” bilgilerini tamamlamaya özen gösterin. “Alternatif metin, başlık ve altyazı” görsel ile ilgili detaylarda önemlidir. Başlık ile aynı metni de kopyalabilirsiniz. 
 
 #### Başlık
 
@@ -257,9 +261,9 @@ Yer için belirlediğiniz başlık ile aynı şekilde doldurabilirsiniz. Bu böl
 
 #### Altyazı
 
-Sitenin ön yüzünde ziyaretçilerin fotoğraf hakkında bilgi sahibi olması içindir. En basitinden yer başlığı ile aynı şekilde doldurabilirsiniz. Veya biraz daha detay verebilirsiniz. Doldurulması önemlidir. 
+Sitenin ön yüzünde ziyaretçilerin fotoğraf hakkında bilgi sahibi olması içindir. En basitinden yer başlığı ile aynı şekilde doldurabilirsiniz. Veya biraz daha detay verebilirsiniz. Muhakkak doldurulmalıdır. 
 
-> Örnek: "Kepenekçi Sinan Medresesi" yazabileceğiniz gibi “Kepenekçi Sinan Medresesi’nin kuzeydoğudan görünümü” de yazabilirsiniz.
+> Örnek: "Kepenekçi Sinan Medresesi" yazabileceğiniz gibi en ideal şekilde “Kepenekçi Sinan Medresesi’nin kuzeydoğudan görünümü” de yazabilirsiniz.
 
 #### Alternatif Metin
 
@@ -281,11 +285,11 @@ Doldurulması isteğe bağlı. Medya etiketleri editöryal amaçlı kullanım i�
 
 #### Oluşturan
 
-Doldurulması önemli! Foto ise, fotoğrafı çeken kişi, Çizim ise, çizimi bizzat yapan kişi. (Foto sahibi ile karıştırılmamalıdır. Sahibi ve oluşturan farklı olabiliyor çoğu  zaman.) Eğer ulaşabiliyorsaniz bu bilgiye ulaşın ve doldurun. Eğer ulaşamıyorsanız boş bırakın.
+Doldurulması önemli! Fotoğraf ise, fotoğrafı çeken kişi; Çizim ise, çizimi bizzat yapan kişi. (Fotoğraf sahibi ile karıştırılmamalıdır. Sahibi ve oluşturan farklı olabilir.) Eğer ulaşabiliyorsaniz bu bilgiye ulaşın ve doldurun. Eğer ulaşamıyorsanız boş bırakın.
 
 Eğer bu isim belli değil ise adı geçen kurum bilgisini de yazabilirsiniz. Eğer bu bilgilere ulaşamıyorsanız boş bırakın.
 
-> Örnek: "Caner Cangül"
+> Örnek: "Caner Cangül" "Salt Araştırma - Ülgen Ailesi Arşivi"
 
 #### Yıl
 
@@ -313,11 +317,11 @@ Eğer bir arşivden veya dijital koleksiyondan faydalanıyorsanız, ortam dosyas
 
 Bir kültür varlığı ile, ilgili Vikipedi makalesini eşleştirdiğimizde, Vikipedi içeriğini sayfalarımızda yayınlayabiliyoruz. Bunun için Vikipedi kutusuna eşleştireceğiniz makalenin adresindeki başlık kısmını eklemeniz yeterli.
 
-> Örnek: Eklemek istediğiniz makalenin adresi, https://tr.wikipedia.org/wiki/Sait_Faik_Abasıyanık_Müzesi ise, sadece **Sait_Faik_Abasıyanık_Müzesi** kısmını yazmanız yeterlidir.
+> Örnek: Eklemek istediğiniz makalenin adresi, https://tr.wikipedia.org/wiki/Sait_Faik_Abasıyanık_Müzesi ise, sadece **Sait_Faik_Abasıyanık_Müzesi** kısmını buraya kopyalayıp yapıştırmanız yeterlidir. Eğer Türkçe bir Vikipedi sayfası yoksa boş bırakınız.
 
 ## İlgili Yerler
 
-Bir kültür varlığı hemen yakınındaki bir başka kültür varlığı ile ilişkili ise bu ilişkiyi bu bölüm altında tanımlıyoruz. Özellikle külliye, antik kent gibi grup yapıları ile cami ve cami önündeki çeşmeler birbiriyle ilişkilidir. Yapısal ilişkiye bakıyoruz.
+Bir kültür varlığı hemen yakınındaki bir başka kültür varlığı ile ilişkili ise bu ilişkiyi bu bölüm altında tanımlıyoruz. Özellikle külliye, antik kent gibi grup yapıları ile cami ve cami önündeki çeşmeler birbiriyle ilişkilidir. Burada dikkat edilmesi gereken husus, sadece yapısal ilişkiye bakılmasıdır. Bunun haricindeki ilişkilere göre lütfen bağ kurmayınız.
 
 Eğer bir yer için *ilişkili yerler* tayin edilmişse, *ilişkili yerler*'in tümü tekil yer sayfasında yer alan haritada görünecektir.
 
