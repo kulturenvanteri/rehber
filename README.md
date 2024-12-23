@@ -160,6 +160,12 @@ Tür adı, Semt/Mahalle Adı*
 ***Mahallenin adı yazılırken ayrıca "Mah." veya “Mahallesi” ifadesine gerek yoktur.**
 ***Büyükşehir olmayan illerde şehir merkezleri için "Merkez" ilçe tanımlaması yapılmıştır. Örnek: "Merkez (Bitlis)"**
 
+## İçerik
+
+Her kültür varlığı için ziyaret edenin anlayabileceği şekilde içerik girmeye gayret gösteriniz. İçeriği olmayan başlıklar için de içerik girebilirsiniz. En ideal durum kendi cümlelerinizle bütünlüklü içerik oluşturmaktır. Ayrıca güvenilir kaynaklardan temin edilen içeriklerde muhakkak kaynak belirtmeye özen gösteriniz. Bloglar, gazete haberleri gibi kaynaklardan içerik alırken kopyalamak yerine, ansiklopedik formatta kendi cümlelerinizle yazınız. 
+
+Kaynak adreslerde ilgili kültür varlığını ilgilendirmeyen bölümleri dahil etmeyiniz. Temel gramer ve imlâ kuralları dahilinde düzenlemelerinizi yapınız.
+
 ## Diğer Adları
 
 <img src="img/Kultur_Envanteri_Diger_Ad.jpg" height="auto" width="100%" >
