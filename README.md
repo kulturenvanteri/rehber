@@ -101,7 +101,7 @@ Haritaya neyin eklenip eklenmeyeceğine karar vermek için temel bazı kriterler
 
 ## Kültür Varlığının Adı
 
-<img src="img/ke_baslik.png" height="auto" width="100%" >
+<img src="img/Kultur_Envanteri_Baslik.jpg" height="auto" width="100%" >
 
 Kültür varlığının adını belirlerken, resmi kaynaklarda nasıl adlandırıldığını dikkate alarak, en bilinen ve sık kullanılan halini belirlemeye çalışıyoruz. Bunun için Kültür Bakanlığı web sitesi, Vikipedi gibi kaynaklardan karşılaştırma yapabilirsiniz.
 
@@ -159,7 +159,7 @@ Tür adı, Semt/Mahalle Adı*
 
 ## Diğer Adları
 
-<img src="img/ke_diger_ad.png" height="auto" width="100%" >
+<img src="img/Kultur_Envanteri_Diger_Ad.jpg" height="auto" width="100%" >
 
 Farklı kaynaklarda kullanılan veya halk arasında bilinen diğer adları bu bölüme **aralarında virgül ve bir boşluk bırakarak** yazın. Buraya girilen metinler, önyüzde ziyaretçiler tarafından görünmesinin yanı sıra, site içi arama sonuçlarını da etkilemesi bakımından önemlidir. Bu yüzden yazım kurallarına, boşluk ve virgüle dikkat etmenizi rica ediyoruz.
 
