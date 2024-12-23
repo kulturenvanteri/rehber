@@ -162,7 +162,7 @@ Tür adı, Semt/Mahalle Adı*
 
 ## İçerik
 
-Her kültür varlığı için ziyaret edenin anlayabileceği şekilde içerik girmeye gayret gösteriniz. İçeriği olmayan başlıklar için de içerik girebilirsiniz. En ideal durum kendi cümlelerinizle bütünlüklü içerik oluşturmaktır. Ayrıca güvenilir kaynaklardan temin edilen içeriklerde muhakkak kaynak belirtmeye özen gösteriniz. Bloglar, gazete haberleri gibi kaynaklardan içerik alırken kopyalamak yerine, ansiklopedik formatta kendi cümlelerinizle yazınız. 
+Her kültür varlığı için ziyaret edenin anlayabileceği şekilde içerik girmeye gayret gösteriniz. İçeriği olmayan başlıklar için de içerik girebilirsiniz. En ideal durum kendi cümlelerinizle bütünlüklü içerik oluşturmaktır. Ayrıca güvenilir kaynaklardan temin edilen içeriklerde muhakkak kaynak belirtmeye özen gösteriniz. Bloglar, gazete haberleri gibi kaynaklardan faydalanırken kopyalamak yerine, ansiklopedik formatta kendi cümlelerinizle yazınız. 
 
 Kaynak adreslerde ilgili kültür varlığını ilgilendirmeyen bölümleri dahil etmeyiniz. Temel gramer ve imlâ kuralları dahilinde düzenlemelerinizi yapınız.
 
