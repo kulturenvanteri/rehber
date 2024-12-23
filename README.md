@@ -70,7 +70,7 @@ Telegram kanalımıza üye olarak sohbetlerimize dahil olabilir ve katkı sunabi
 
 ### E-posta
 
-E-posta yoluyla bize ulaşabilir ve  içeriğimize katkıda bulunabilirsiniz. [kulturenvanteriatlasi@gmail.com](mailto:kulturenvanteriatlasi@gmail.com?subject=İçeriğe%20Katkı)
+E-posta yoluyla bize ulaşabilir ve  içeriğimize katkıda bulunabilirsiniz. [iletisim@kulturenvanteri.com](mailto:iletisim@kulturenvanteri.com?subject=İçeriğe%20Katkı)
 
 ## Toplu Yer Ekleme
 
