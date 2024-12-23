@@ -245,7 +245,7 @@ Bir dosya eklerken dikkat etmeniz gereken bazı standartlar var. **Dosyanın gen
 
 Galeriye eklenecek görsel malzemenin içeriğe doğrudan katkı sağlamasının yanı sıra, belge niteliği ve estetik kaygı taşıması da beklenir.
 
-Fotoğrafların en-boy oranları görsel düzeni açısından önemlidir. 3x4, 9x13, 10x15 gibi profesyonel kamera standartlarına uymaya gayret gösteriniz. Son dönem çeşitli cep telefonları 2x1 oranından daha fazla olacak şekilde standart dışı fotoğraf çekmektedir. Ayrıca bir fotoğrafı ekran görüntüsü alarak, Whtsapp'dan kendinize göndermek suretiyle boyut düzenlemesi yaparak eklemeyiniz. Fotoğraf boyutlandırma konusunda pekçok program bulunmakta olup, bu konuda Telegram grubundan da yardım alabilirsiniz.
+Fotoğrafların en-boy oranları görsel düzeni açısından önemlidir. 3x4, 9x13, 10x15 gibi profesyonel kamera standartlarına uymaya gayret gösteriniz. Son dönem çeşitli cep telefonları 2x1 oranından daha fazla olacak şekilde standart dışı fotoğraf çekmektedir. Ayrıca bir fotoğrafı ekran görüntüsü alarak, Whatsapp'dan kendinize göndermek suretiyle boyut düzenlemesi yaparak eklemeyiniz. Fotoğraf boyutlandırma konusunda pekçok program bulunmakta olup, bu konuda Telegram grubundan da yardım alabilirsiniz.
 
 ### Görsel Dosya Bilgileri
 
@@ -330,4 +330,4 @@ Eğer bir yer için *ilişkili yerler* tayin edilmişse, *ilişkili yerler*'in t
 
 - Aspendos: https://kulturenvanteri.com/yer/aspendos/
 - Perge: https://kulturenvanteri.com/yer/perge/
-- Süleymaniye Camii: https://kulturenvanteri.com/yer/suleymaniye-camii-ve-kulliyesi/
+- Süleymaniye Camii: https://kulturenvanteri.com/yer/suleymaniye-camii/
