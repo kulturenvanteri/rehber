@@ -74,7 +74,7 @@ E-posta yoluyla bize ulaşabilir ve  içeriğimize katkıda bulunabilirsiniz. [i
 
 ## Toplu Yer Ekleme
 
-İçeriğinizi toplu bir şekilde bize ulaştırmak isterseniz sitemize uygun bir şablon kullanarak verilerinizi derleyerek bize ulaştırabilirisiniz. Eğer bu iş için yeteri kadar zaman veya enerjiye sahip değilseniz, yine de bizimle iletişime geçmekten çekinmeyin. Birlikte elinizdeki veriyi ne şekilde değerlendirebileceğimizin yollarını düşünelim. [kulturenvanteriatlasi@gmail.com](mailto:kulturenvanteriatlasi@gmail.com?subject=İçeriğe%20Katkı) 
+İçeriğinizi toplu bir şekilde bize ulaştırmak isterseniz sitemize uygun bir şablon kullanarak verilerinizi derleyerek bize ulaştırabilirisiniz. Eğer bu iş için yeteri kadar zaman veya enerjiye sahip değilseniz, yine de bizimle iletişime geçmekten çekinmeyin. Birlikte elinizdeki veriyi ne şekilde değerlendirebileceğimizin yollarını düşünelim. [iletisim@kulturenvanteri.com](mailto:iletisim@kulturenvanteri.com?subject=İçeriğe%20Katkı) 
 
 > Not: Yakında Şablon Dosyası Eklenecek
 
@@ -238,7 +238,7 @@ Google Haritalar, Openstreetmaps
 
 Galeri bölümü, bir kültür varlığı ile ilgili her çeşit görsel belge ekleyebileceğiniz bir alandır. Bir fotoğraf, çizim, kroki, harita veya gravür ekleyebilirsiniz. Kendi fotoğraflarınızı, çizimlerinizi ekleyebilir veya telif haklarına ve veri kullanım politikalarına dikkat etmek koşulu ile çeşitli kaynaklardan görsel temin edebilirsiniz. 
 
-Bir telif hakkı ihlali olduğunu düşündüğünüz durumlarda lütfen bizimle [iletişime geçin](mailto:kulturenvanteriatlasi@gmail.com?subject=Telif%20Hakkı%20İhlali).
+Bir telif hakkı ihlali olduğunu düşündüğünüz durumlarda lütfen bizimle [iletişime geçin](mailto:iletisim@kulturenvanteri.com?subject=Telif%20Hakkı%20İhlali).
 
 ### Görsel Dosya Standartları
 
