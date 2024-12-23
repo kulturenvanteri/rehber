@@ -64,23 +64,20 @@ E-posta, Telegram veya Twitter üzerinden de katkıda bulunabilirsiniz. Kültür
 
 Hem kültür elçileri olarak sürekli haberleşiyoruz, hem de yaptığımız çalışmalarla alakalı sık bilgilendirme yapmaya gayret ediyoruz. Telegram kanalımızdan veya Twitter hesabımızdan bize ulaşabilir, sohbetlerimize katılabilir ve güncellemelerden haberdar olabilirsiniz.
 
-### Twitter
+### Twitter - X
 
-Twitter kullanıcısı iseniz #kültürenvanteri şeklinde etiketleyerek tweetlediğiniz gönderileri değerlendirerek envantere dahil ediyoruz.
+X kullanıcısı iseniz #kültürenvanteri şeklinde etiketleyerek tweetlediğiniz gönderileri değerlendirerek envantere dahil ediyoruz.
+
+Kültür Envanteri'nin [X hesabını](https://x.com/envanteratlasi/) da takip edebilirsiniz.
+
 
 ### Telegram
 
-Telegram kanalımıza üye olarak sohbetlerimize dahil olabilir ve katkı sunabilirsiniz.
+Telegram kanalımıza üye olarak sohbetlerimize dahil olabilir ve katkı sunabilirsiniz.  [Kültür Envanteri Telegram Grubu](https://t.me/kulturenvanteri)
 
 ### E-posta
 
 E-posta yoluyla bize ulaşabilir ve  içeriğimize katkıda bulunabilirsiniz. [iletisim@kulturenvanteri.com](mailto:iletisim@kulturenvanteri.com?subject=İçeriğe%20Katkı)
-
-## Toplu Yer Ekleme
-
-İçeriğinizi toplu bir şekilde bize ulaştırmak isterseniz sitemize uygun bir şablon kullanarak verilerinizi derleyerek bize ulaştırabilirisiniz. Eğer bu iş için yeteri kadar zaman veya enerjiye sahip değilseniz, yine de bizimle iletişime geçmekten çekinmeyin. Birlikte elinizdeki veriyi ne şekilde değerlendirebileceğimizin yollarını düşünelim. [iletisim@kulturenvanteri.com](mailto:iletisim@kulturenvanteri.com?subject=İçeriğe%20Katkı) 
-
-> Not: Yakında Şablon Dosyası Eklenecek
 
 ## Vikipedi Sayfası Düzenleme
 
@@ -90,7 +87,7 @@ Katkılarınız, Vikipedi devriyeleri tarafından sayfa düzeni ve kaynaklar kon
 
 ## Editör Ekibimize Katılın
 
-Ben daha fazlasını yapmak istiyorum, belirli bir tür ya da şehrin kültür varlıkları üzerine çalışmak istiyorum diyorsanız o halde bize katılın. Detaylı bilgi için [Kültür Elçileri](https://kulturenvanteri.com/kultur-elcileri) sayfasına bakın.
+Ben daha fazlasını yapmak istiyorum, belirli bir tür ya da şehrin kültür varlıkları üzerine çalışmak istiyorum diyorsanız o halde bize katılın. Detaylı bilgi için [Kültür Elçileri](https://kulturenvanteri.com/tr/katkida-bulunun/) sayfasına bakın.
 
 # Editör Rehberi
 
