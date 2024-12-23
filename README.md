@@ -1,10 +1,10 @@
 # Kullanım Rehberi
 
-Bu rehberde, Kültür Envanteri Atlası’nın genel kullanımı ile ilgili teknik bazı bilgiler ve ipuçları yer alıyor.
+Bu rehberde, Kültür Envanteri’nin genel kullanımı ile ilgili teknik bazı bilgiler ve ipuçları yer alıyor.
 
 ## Kültür Varlığı Arama
 
-<img src="img/ke_ara.png" height="auto" width="100%" >
+<img src="img/Kultur_Envanteri_Arama.jpg" height="auto" width="100%" >
 
 Ana sayfa, taksonomi sayfaları veya tekil yer sayfalarında göreceğiniz arama butonu ile bir kültür varlığı adı, tür, yerleşim ya da herhangi bir terim girerek arama yapabilirsiniz. Arama sonuçlarını görüntülemek için [Harita](https://kulturenvanteri.com/harita) sayfasına yönlendirileceksiniz. Eğer birden fazla terim girmek istiyorsanız boşluk bırakın. Birden fazla terimin aynı anda arandığı durumlarda, yalnızca her iki terimin de kesiştiği sonuçlar görüntülenecektir.
 
@@ -50,7 +50,7 @@ Haritanın sağ altında yer alan konumumu göster işaretine tıklayarak, var o
 
 # Katılım Rehberi
 
-Kültür Envanteri Atlası, katılımcılık ve işbirliğine dayalı bir anlayışla geliştirilmektedir. Eğer projemize dahil olmak isterseniz, bu başlığı okuyarak neler yapabileceğiniz hakkında fikir sahibi olun.
+Kültür Envanteri, katılımcılık ve işbirliğine dayalı bir anlayışla geliştirilmektedir. Eğer projemize dahil olmak isterseniz, bu başlığı okuyarak neler yapabileceğiniz hakkında fikir sahibi olun.
 
 Veri tabanımızda yer almayan bir kültür varlığı hakkında bilgi sahibi iseniz, eklenmiş bir kültür varlığında eksik ya da hata görmüşseniz bize bildirebilirsiniz. Katkılarınızdan memnuniyet duyacağız. 
 
@@ -90,7 +90,7 @@ Ben daha fazlasını yapmak istiyorum, belirli bir tür ya da şehrin kültür v
 
 # Editör Rehberi
 
-Kültür Envanteri Atlası’nda yer alan tüm varlıkların içeriğini zenginleştirmek ve kapsamlı bir kaynak sunmayı amaçlıyoruz. Bunun için belirlediğimiz standartları ve editörlerin dikkate alması gereken noktaları bu başlık altında okuyabilirsiniz.
+Kültür Envanteri’nde yer alan tüm varlıkların içeriğini zenginleştirmek ve kapsamlı bir kaynak sunmayı amaçlıyoruz. Bunun için belirlediğimiz standartları ve editörlerin dikkate alması gereken noktaları bu başlık altında okuyabilirsiniz.
 
 ## Yer Ekleme
 
