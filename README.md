@@ -6,7 +6,9 @@ Bu rehberde, Kültür Envanteri’nin genel kullanımı ile ilgili teknik bazı 
 
 <img src="img/Kultur_Envanteri_Arama.jpg" height="auto" width="100%" >
 
-Ana sayfa, taksonomi sayfaları veya tekil yer sayfalarında göreceğiniz arama butonu ile bir kültür varlığı adı, tür, yerleşim ya da herhangi bir terim girerek arama yapabilirsiniz. Arama sonuçlarını görüntülemek için [Harita](https://kulturenvanteri.com/harita) sayfasına yönlendirileceksiniz. Eğer birden fazla terim girmek istiyorsanız boşluk bırakın. Birden fazla terimin aynı anda arandığı durumlarda, yalnızca her iki terimin de kesiştiği sonuçlar görüntülenecektir. 
+Ana sayfa, taksonomi sayfaları veya tekil yer sayfalarında göreceğiniz arama butonu ile bir kültür varlığı adı, tür, yerleşim ya da herhangi bir terim girerek arama yapabilirsiniz. Arama sonuçlarını liste olarak görebileceğiniz gibi harita üzerine de yerleştirebilirsiniz. Bunun için arama sonuçlarının gösterildiüi sayfanın sağ üstüne bulunan "Harita - Liste" butonlarına tıklayabilirsiniz. 
+
+Eğer birden fazla terim girmek istiyorsanız boşluk bırakın. Birden fazla terimin aynı anda arandığı durumlarda, yalnızca her iki terimin de kesiştiği sonuçlar görüntülenecektir. 
 
 Eğer arama sonucu araştırmanız için beklediğiniz sonuçlardan fazlasını gösteriyorsa, daha hedefe dönük sonuçlar almak için lütfen "Araştır" bölümünü kullanınız.
 
