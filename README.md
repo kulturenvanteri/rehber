@@ -169,13 +169,13 @@ Farklı kaynaklarda kullanılan veya halk arasında bilinen diğer adları bu b�
 
 <img src="img/ke_grup2.png" height="auto" width="100%" >
 
-Grup, veritabanımızın en üst seviye sınıflandırma başlığıdır. En genel hali ile, Birincil kullanım amacına göre bir grup belirliyoruz. Her grup parametresinin kendine ait bir renk kodu bulunuyor ve belirlediğimiz grup parametresi aynı zamanda haritanın lejantını da belirliyor. Burada elimizden geldiğince birincil olanı belirliyoruz. Birden fazla gruba ait olabilecek varlıklar için emin olmadığınız durumlarda lütfen **Kültür Elçileri Grubu**nda tartışmaya açmaktan çekinmeyin. 
+Grup, veritabanımızın en üst seviye sınıflandırma başlığıdır. En genel hali ile, Birincil kullanım amacına göre bir grup belirliyoruz. Her grup parametresinin kendine ait bir renk kodu bulunuyor ve belirlediğimiz grup parametresi aynı zamanda haritanın lejantını da belirliyor. Burada elimizden geldiğince birincil olanı belirliyoruz. Birden fazla gruba ait olabilecek varlıklar için emin olmadığınız durumlarda lütfen Telegram'daki **Kültür Elçileri Grubu**nda tartışmaya açmaktan çekinmeyin. 
 
 Grup, geniş bir tanımlama taksonomisi olduğundan, belirlemek diğer parametrelere göre daha zordur. Envanter içinde mümkün olduğunca en mantıklı olanı belirlemek adına tartışmalarımız sürüyor. 
 
 Şimdiye kadar belirlediğimiz bazı özel noktalar var:
 
-> **Hamam, Çeşme** gibi kültür varlıklarını, "Su Yapısı" değil **"Sosyal Yapı"** olarak grupluyoruz. Çünkü Bu tür yapılar kullanım bakımından daha çok insanlarla ilişki halindedir. 
+> **Hamam, Çeşme** gibi kültür varlıklarını, "Su Yapısı" değil **"Sosyal Yapı"** olarak grupluyoruz. Çünkü bu tür yapılar kullanım bakımından daha çok insanlarla ilişki halindedir. 
 
 > **Su Kemeri, Baraj, Sarnıç** gibi kültür varlıklarını ise **"Su Yapısı"** olarak grupluyoruz. Çünkü bu yapılar su taşıma ve depolama altyapılarını oluşturuyor.
 
@@ -187,7 +187,7 @@ Kültür varlığının niteliğine bağlı olarak türü hakkında sınıfland�
 
 > Örnek: Ayasofya için: "Cami, Müze, Kilise ve Manastır"
 
-## Konum
+## İdari Bölge
 
 <img src="img/ke_bolge.png" height="auto" width="100%" >
 
@@ -225,15 +225,11 @@ Ayrıca sürekli olarak yeni temalar oluşturuyoruz. Tema önerilerinizi iletebi
 
 ## Coğrafi Konum
 
-Kültür varlığının haritada yer alabilmesi için coğrafi konum bilgisine ihtiyacımız var. Bir noktanın isabetli koordinat bilgisine ulaşmak için Google Maps, OpenStreetMaps gibi harita servislerinden faydalanabilirsiniz.. Veritabanımızda geçerli konum formatı “lat, long” şeklindedir.
+<img src="img/Kultur_Envanteri_Konum_Isaretleme.jpg" height="auto" width="100%">
+
+Bir kültür varlığının haritada yer alabilmesi için coğrafi konum bilgisine ihtiyacımız var. Yeni bir yer eklerken veya eklenmiş bir kültür varlığının hatalı konumunu düzeltmek isterken, editör sayfasında bulunan haritadan yaklaşarak işaretleme yapabileceğiniz gibi, üçüncü harita hizmeti sunan Google Maps gibi yerlerden "Lat, Long" şeklinde konumu kopyalayarak ilgili bölüme yapıştırıp enter tuşuna basmanız halinde de güncelleme yapabilirsiniz.
 
 > Örnek: "36.9504356, 35.9239426"
-
-### Bir Noktanın Koordinatlarını Öğrenme
-
-Google Haritalar, Openstreetmaps
-
-> Yakında eklenecek
 
 ## Galeri
 
