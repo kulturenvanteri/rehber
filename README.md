@@ -99,6 +99,8 @@ Haritaya bir Kültür varlığı eklerken bu varlık hakkında bazı temel bilgi
 
 Haritaya neyin eklenip eklenmeyeceğine karar vermek için temel bazı kriterlerimiz var. Öncelikle "Kültür Varlığı" tanımına uygun olması gerekiyor. Kararsız kaldığınız durumlarda Telegram Editör Grubu'nda konuyu tartışmaya açmaktan lütfen çekinmeyin.
 
+Eklemeden evvel lütfen arama yaparak çift kayıt oluşturmamak adına ilgili kültür varlığını kontrol ediniz. Kontrolü harita üzerinden de yapabilirsiniz.
+
 ## Kültür Varlığının Adı
 
 <img src="img/Kultur_Envanteri_Baslik.jpg" height="auto" width="100%" >
@@ -155,7 +157,8 @@ Tür adı, Semt/Mahalle Adı*
 
 > Örnek: Çeşme, Bolvadin
 
-***Mahallenin adı yazılırken ayrıca “Mahallesi” ifadesine gerek yoktur.**
+***Mahallenin adı yazılırken ayrıca "Mah." veya “Mahallesi” ifadesine gerek yoktur.**
+***Büyükşehir olmayan illerde şehir merkezleri için "Merkez" ilçe tanımlaması yapılmıştır. Örnek: "Merkez (Bitlis)"**
 
 ## Diğer Adları
 
