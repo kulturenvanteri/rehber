@@ -1,12 +1,14 @@
 # Kullanım Rehberi
 
-Bu rehberde, Kültür Envanteri’nin genel kullanımı ile ilgili teknik bazı bilgiler ve ipuçları yer alıyor.
+Bu rehberde, Kültür Envanteri’nin genel kullanımı ile ilgili teknik bazı bilgiler ve ipuçları yer alıyor. Sol bölümde yer alan başlıkları kullanarak ilgili bölüme hızlıca ulaşabilirsiniz. Kültür elçileri "Editör Rehberi" kısmını daha dikkatli incelemelidir.
 
 ## Kültür Varlığı Arama
 
 <img src="img/Kultur_Envanteri_Arama.jpg" height="auto" width="100%" >
 
-Ana sayfa, taksonomi sayfaları veya tekil yer sayfalarında göreceğiniz arama butonu ile bir kültür varlığı adı, tür, yerleşim ya da herhangi bir terim girerek arama yapabilirsiniz. Arama sonuçlarını görüntülemek için [Harita](https://kulturenvanteri.com/harita) sayfasına yönlendirileceksiniz. Eğer birden fazla terim girmek istiyorsanız boşluk bırakın. Birden fazla terimin aynı anda arandığı durumlarda, yalnızca her iki terimin de kesiştiği sonuçlar görüntülenecektir.
+Ana sayfa, taksonomi sayfaları veya tekil yer sayfalarında göreceğiniz arama butonu ile bir kültür varlığı adı, tür, yerleşim ya da herhangi bir terim girerek arama yapabilirsiniz. Arama sonuçlarını görüntülemek için [Harita](https://kulturenvanteri.com/harita) sayfasına yönlendirileceksiniz. Eğer birden fazla terim girmek istiyorsanız boşluk bırakın. Birden fazla terimin aynı anda arandığı durumlarda, yalnızca her iki terimin de kesiştiği sonuçlar görüntülenecektir. 
+
+Eğer arama sonucu araştırmanız için beklediğiniz sonuçlardan fazlasını gösteriyorsa, daha hedefe dönük sonuçlar almak için lütfen "Araştır" bölümünü kullanınız.
 
 > Örn: [Kastamonu](https://kulturenvanteri.com/harita/?_ara=Kastamonu), [Kale](https://kulturenvanteri.com/harita/?_ara=Kale), [Çeşme](https://kulturenvanteri.com/harita/?_ara=Çeşme), [Selçuklu](https://kulturenvanteri.com/harita/?_ara=Selçuklu), [Hitit](https://kulturenvanteri.com/harita/?_ara=Hitit), [Safranbolu](https://kulturenvanteri.com/harita/?_ara=Safranbolu), [Aspendos](https://kulturenvanteri.com/harita/?_ara=Aspendos) …
 
