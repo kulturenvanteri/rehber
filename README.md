@@ -230,7 +230,7 @@ Ayrıca sürekli olarak yeni temalar oluşturuyoruz. Tema önerilerinizi iletebi
 
 <img src="img/Kultur_Envanteri_Konum_Isaretleme.jpg" height="auto" width="100%">
 
-Bir kültür varlığının haritada yer alabilmesi için coğrafi konum bilgisine ihtiyacımız var. Yeni bir yer eklerken veya eklenmiş bir kültür varlığının hatalı konumunu düzeltmek isterken, editör sayfasında bulunan haritadan yaklaşarak işaretleme yapabileceğiniz gibi, üçüncü harita hizmeti sunan Google Maps gibi yerlerden "Lat, Long" şeklinde konumu kopyalayarak ilgili bölüme yapıştırıp enter tuşuna basmanız halinde de güncelleme yapabilirsiniz.
+Bir kültür varlığının haritada yer alabilmesi için coğrafi konum bilgisine ihtiyacımız var. Yeni bir yer eklerken veya eklenmiş bir kültür varlığının hatalı konumunu düzeltmek isterken, editör sayfasında bulunan haritadan yaklaşarak işaretleme yapabileceğiniz gibi, harita hizmeti sunan Google Maps gibi sitelerden "Lat, Long" şeklinde konumu kopyalayarak ilgili bölüme yapıştırıp enter tuşuna basmanız halinde de güncelleme yapabilirsiniz.
 
 > Örnek: "36.9504356, 35.9239426"
 
