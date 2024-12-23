@@ -22,17 +22,23 @@ Kültür Envanteri'nde arama sonuçlarına daraltmak için filtreleme yöntemini
 
 ## Harita Kullanımı
 
-<img src="img/ke_harita.jpg" height="auto" width="100%" >
+<img src="img/Kultur_Envanteri_Harita.jpg" height="auto" width="100%" >
 
-Hazırlanıyor...
+Harita Kültür Envanteri'nin en ayırıcı özelliğidir. 
 
+Ulaştığınız sonuçları harita üzerine görebileceğiniz gibi, her kültür varlığı sayfasında da harita bulunmaktadır. Mobil telefonlardan erişimde haritayı görmek için telefonu yan çevirmelisiniz. 
+
+Tüm kültür varlıklarının gösterildiği harita ise periyodik olarak güncellenmek olup sitenin daima en üstünde yer alan "Harita" linki ile kolayca erişelebilir durumdadır.
+
+Üstteki resimde göreceğiniz üzere farklı harita katmanları arasından seçim yapabildiğiniz gibi, harita sağlayıcı verileri üzerinden arama yaparak istediğiniz bölgeye de hızlıca erişebilirsiniz.
+ 
 ## Eksik Veya Hatalı İçerik Bildirme
 
-<img src="img/ke_bildir.png" height="auto" width="100%" >
+<img src="img/Kultur_Envanteri_Bildir.jpg" height="auto" width="100%" >
 
-Bir Kültür varlığı ile ilgili eksik veya hatalı bir bilgi gördüğünüzde, ilgili sayfanın sağ altında yer alan **"Hata bildir veya katkıda bulun"** bağlantısı ile bize e-posta gönderebilirsiniz.
+Bir "Kültür Varlığı" ile ilgili eksik veya hatalı bir bilgi gördüğünüzde, ilgili sayfanın sağ altında yer alan **"Düzeltme Öner"** bağlantısı ile bize ulaştırabilirsiniz.
 
-Eğer haritada var olmayan bir kültür varlığını bize bildirmek isterseniz, [Yer Ekle](https://kulturenvanteri.com/ekle) sayfasından size uygun iletişim kanalını belirleyerek bize ulaşın. Daha detaylı bilgi için Katılım başlığını okuyun.
+Eğer haritada var olmayan bir kültür varlığını bize bildirmek isterseniz, [iletisim@kulturenvanteri.com](mailto:iletisim@kulturenvanteri.com?subject=İçeriğe%20Katkı) adresine konum ve diğer bilgileri içeren e-posta gönderebilirsiniz. Daha detaylı bilgi için "Katılım" başlığını okuyun.
 
 ## Yol Tarifi Alma
 
