@@ -303,15 +303,14 @@ Eğer bir arşivden veya dijital koleksiyondan faydalanıyorsanız, ortam dosyas
 
 > Örnek: https://archives.saltresearch.org/handle/123456789/109269
 
-### Görsel Dosya Telif Hakları
+## Öne Çıkan Görsel
 
-#### Sahibi Olduğunuz Görsel Dosya
+<img src="img/Kultur_Envanteri_OneCikanGorsel.jpg" height="auto" width="100%">
 
-> Hazırlanıyor...
+Her kültür varlığı için uygun bir ana fotoğraf belirliyoruz. Bunun için o kültür varlığını en iyi anlattığını düşündüğünüz fotoğrafı öne çıkarabilirsiniz. Eğer galeriye ilk kez siz fotoğraf ekliyorsanız, lütfen bu kısmı kontrol ediniz ve fotoğraf belirlenmemişse bunu belirleyiniz.
 
-#### Başka Bir Kaynağa Ait Görsel Dosya
+Eğer bir çeşme ise çeşmenin kitabesinden ziyade genel görünümü, bir cami ise iç görünümden ziyade camiyi bir bütün olarak gösteren bir dış çekim fotoğrafı seçilmelidir.
 
-> Hazırlanıyor...
 
 ## Vikipedi Makalesi Eşleştirme
 
